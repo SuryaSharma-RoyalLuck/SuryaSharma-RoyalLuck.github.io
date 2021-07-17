@@ -1120,6 +1120,13 @@ figure.effect-apollo:hover figcaption::before {
 	margin-bottom: 50px;
 	color: #FFF;
 }
+.agilecontactw3ls p{
+	color: aliceblue; font-size:16px;
+}
+
+.agilecontactw3ls strong{
+	color: aliceblue; font-size:24px; font-weight:bold;
+}  
 
 .agilecontactw3ls-grid input[type="text"], .agilecontactw3ls-grid input[type="email"], .agilecontactw3ls-grid textarea {
 	width: 100%;
